@@ -1,0 +1,15 @@
+C:\DatosJulian\Pruebas\Million\BackEnd\property.WebApi\property.Infrastructure\obj\Debug\net8.0\property.Infrastructure.csproj.AssemblyReference.cache
+C:\DatosJulian\Pruebas\Million\BackEnd\property.WebApi\property.Infrastructure\obj\Debug\net8.0\property.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\DatosJulian\Pruebas\Million\BackEnd\property.WebApi\property.Infrastructure\obj\Debug\net8.0\property.Infrastructure.AssemblyInfoInputs.cache
+C:\DatosJulian\Pruebas\Million\BackEnd\property.WebApi\property.Infrastructure\obj\Debug\net8.0\property.Infrastructure.AssemblyInfo.cs
+C:\DatosJulian\Pruebas\Million\BackEnd\property.WebApi\property.Infrastructure\obj\Debug\net8.0\property.Infrastructure.csproj.CoreCompileInputs.cache
+C:\DatosJulian\Pruebas\Million\BackEnd\property.WebApi\property.Infrastructure\bin\Debug\net8.0\property.Infrastructure.deps.json
+C:\DatosJulian\Pruebas\Million\BackEnd\property.WebApi\property.Infrastructure\bin\Debug\net8.0\property.Infrastructure.dll
+C:\DatosJulian\Pruebas\Million\BackEnd\property.WebApi\property.Infrastructure\bin\Debug\net8.0\property.Infrastructure.pdb
+C:\DatosJulian\Pruebas\Million\BackEnd\property.WebApi\property.Infrastructure\bin\Debug\net8.0\property.Domain.dll
+C:\DatosJulian\Pruebas\Million\BackEnd\property.WebApi\property.Infrastructure\bin\Debug\net8.0\property.Domain.pdb
+C:\DatosJulian\Pruebas\Million\BackEnd\property.WebApi\property.Infrastructure\obj\Debug\net8.0\property.5F5467CF.Up2Date
+C:\DatosJulian\Pruebas\Million\BackEnd\property.WebApi\property.Infrastructure\obj\Debug\net8.0\property.Infrastructure.dll
+C:\DatosJulian\Pruebas\Million\BackEnd\property.WebApi\property.Infrastructure\obj\Debug\net8.0\refint\property.Infrastructure.dll
+C:\DatosJulian\Pruebas\Million\BackEnd\property.WebApi\property.Infrastructure\obj\Debug\net8.0\property.Infrastructure.pdb
+C:\DatosJulian\Pruebas\Million\BackEnd\property.WebApi\property.Infrastructure\obj\Debug\net8.0\ref\property.Infrastructure.dll

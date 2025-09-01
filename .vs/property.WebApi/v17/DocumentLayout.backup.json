@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DatosJulian\\Pruebas\\Million\\BackEnd\\property.WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBFA171-0887-43A6-BE65-B458A2F05E96}|property.Application\\property.Application.csproj|c:\\datosjulian\\pruebas\\million\\backend\\property.webapi\\property.application\\services\\propertyimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBFA171-0887-43A6-BE65-B458A2F05E96}|property.Application\\property.Application.csproj|solutionrelative:property.application\\services\\propertyimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBFA171-0887-43A6-BE65-B458A2F05E96}|property.Application\\property.Application.csproj|c:\\datosjulian\\pruebas\\million\\backend\\property.webapi\\property.application\\services\\ownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBFA171-0887-43A6-BE65-B458A2F05E96}|property.Application\\property.Application.csproj|solutionrelative:property.application\\services\\ownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6F2C2A-5072-4E51-939A-A408531C6F98}|property.WebApi\\property.WebApi.csproj|c:\\datosjulian\\pruebas\\million\\backend\\property.webapi\\property.webapi\\controllers\\pripertyimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6F2C2A-5072-4E51-939A-A408531C6F98}|property.WebApi\\property.WebApi.csproj|solutionrelative:property.webapi\\controllers\\pripertyimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBFA171-0887-43A6-BE65-B458A2F05E96}|property.Application\\property.Application.csproj|c:\\datosjulian\\pruebas\\million\\backend\\property.webapi\\property.application\\handlers\\imagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBFA171-0887-43A6-BE65-B458A2F05E96}|property.Application\\property.Application.csproj|solutionrelative:property.application\\handlers\\imagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6F2C2A-5072-4E51-939A-A408531C6F98}|property.WebApi\\property.WebApi.csproj|c:\\datosjulian\\pruebas\\million\\backend\\property.webapi\\property.webapi\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6F2C2A-5072-4E51-939A-A408531C6F98}|property.WebApi\\property.WebApi.csproj|solutionrelative:property.webapi\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CA1EC5-27F8-4B86-92D8-A5D1AB7E5607}|property.Tests\\property.Tests.csproj|c:\\datosjulian\\pruebas\\million\\backend\\property.webapi\\property.tests\\services\\ownerservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CA1EC5-27F8-4B86-92D8-A5D1AB7E5607}|property.Tests\\property.Tests.csproj|solutionrelative:property.tests\\services\\ownerservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3571B7C-30B5-41D2-AF2E-46C94A3048E1}|property.Domain\\property.Domain.csproj|c:\\datosjulian\\pruebas\\million\\backend\\property.webapi\\property.domain\\interfaces\\handlers\\iimagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3571B7C-30B5-41D2-AF2E-46C94A3048E1}|property.Domain\\property.Domain.csproj|solutionrelative:property.domain\\interfaces\\handlers\\iimagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6F2C2A-5072-4E51-939A-A408531C6F98}|property.WebApi\\property.WebApi.csproj|c:\\datosjulian\\pruebas\\million\\backend\\property.webapi\\property.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6F2C2A-5072-4E51-939A-A408531C6F98}|property.WebApi\\property.WebApi.csproj|solutionrelative:property.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OwnerController.cs",
+              "DocumentMoniker": "C:\\DatosJulian\\Pruebas\\Million\\BackEnd\\property.WebApi\\property.WebApi\\Controllers\\OwnerController.cs",
+              "RelativeDocumentMoniker": "property.WebApi\\Controllers\\OwnerController.cs",
+              "ToolTip": "C:\\DatosJulian\\Pruebas\\Million\\BackEnd\\property.WebApi\\property.WebApi\\Controllers\\OwnerController.cs",
+              "RelativeToolTip": "property.WebApi\\Controllers\\OwnerController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAjwDkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T19:59:52.862Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropertyImageService.cs",
+              "DocumentMoniker": "C:\\DatosJulian\\Pruebas\\Million\\BackEnd\\property.WebApi\\property.Application\\Services\\PropertyImageService.cs",
+              "RelativeDocumentMoniker": "property.Application\\Services\\PropertyImageService.cs",
+              "ToolTip": "C:\\DatosJulian\\Pruebas\\Million\\BackEnd\\property.WebApi\\property.Application\\Services\\PropertyImageService.cs",
+              "RelativeToolTip": "property.Application\\Services\\PropertyImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T04:33:29.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PripertyImageController.cs",
+              "DocumentMoniker": "C:\\DatosJulian\\Pruebas\\Million\\BackEnd\\property.WebApi\\property.WebApi\\Controllers\\PripertyImageController.cs",
+              "RelativeDocumentMoniker": "property.WebApi\\Controllers\\PripertyImageController.cs",
+              "ToolTip": "C:\\DatosJulian\\Pruebas\\Million\\BackEnd\\property.WebApi\\property.WebApi\\Controllers\\PripertyImageController.cs",
+              "RelativeToolTip": "property.WebApi\\Controllers\\PripertyImageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T04:33:23.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OwnerServiceTest.cs",
+              "DocumentMoniker": "C:\\DatosJulian\\Pruebas\\Million\\BackEnd\\property.WebApi\\property.Tests\\Services\\OwnerServiceTest.cs",
+              "RelativeDocumentMoniker": "property.Tests\\Services\\OwnerServiceTest.cs",
+              "ToolTip": "C:\\DatosJulian\\Pruebas\\Million\\BackEnd\\property.WebApi\\property.Tests\\Services\\OwnerServiceTest.cs",
+              "RelativeToolTip": "property.Tests\\Services\\OwnerServiceTest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T04:31:52.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IImageHandler.cs",
+              "DocumentMoniker": "C:\\DatosJulian\\Pruebas\\Million\\BackEnd\\property.WebApi\\property.Domain\\Interfaces\\Handlers\\IImageHandler.cs",
+              "RelativeDocumentMoniker": "property.Domain\\Interfaces\\Handlers\\IImageHandler.cs",
+              "ToolTip": "C:\\DatosJulian\\Pruebas\\Million\\BackEnd\\property.WebApi\\property.Domain\\Interfaces\\Handlers\\IImageHandler.cs",
+              "RelativeToolTip": "property.Domain\\Interfaces\\Handlers\\IImageHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T03:52:21.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DatosJulian\\Pruebas\\Million\\BackEnd\\property.WebApi\\property.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "property.WebApi\\Program.cs",
+              "ToolTip": "C:\\DatosJulian\\Pruebas\\Million\\BackEnd\\property.WebApi\\property.WebApi\\Program.cs",
+              "RelativeToolTip": "property.WebApi\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T03:50:55.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageHandler.cs",
+              "DocumentMoniker": "C:\\DatosJulian\\Pruebas\\Million\\BackEnd\\property.WebApi\\property.Application\\Handlers\\ImageHandler.cs",
+              "RelativeDocumentMoniker": "property.Application\\Handlers\\ImageHandler.cs",
+              "ToolTip": "C:\\DatosJulian\\Pruebas\\Million\\BackEnd\\property.WebApi\\property.Application\\Handlers\\ImageHandler.cs",
+              "RelativeToolTip": "property.Application\\Handlers\\ImageHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T03:46:21.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OwnerService.cs",
+              "DocumentMoniker": "C:\\DatosJulian\\Pruebas\\Million\\BackEnd\\property.WebApi\\property.Application\\Services\\OwnerService.cs",
+              "RelativeDocumentMoniker": "property.Application\\Services\\OwnerService.cs",
+              "ToolTip": "C:\\DatosJulian\\Pruebas\\Million\\BackEnd\\property.WebApi\\property.Application\\Services\\OwnerService.cs",
+              "RelativeToolTip": "property.Application\\Services\\OwnerService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T03:35:40.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

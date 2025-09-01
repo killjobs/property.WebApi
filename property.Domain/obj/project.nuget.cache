@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6w7hFyVc9yo=",
+  "success": true,
+  "projectFilePath": "C:\\DatosJulian\\Pruebas\\Million\\BackEnd\\property.WebApi\\property.Domain\\property.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\mongodb.bson\\3.4.3\\mongodb.bson.3.4.3.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

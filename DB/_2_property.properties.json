@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "68ab73fe2a7ac057c1a35412"
+  },
+  "name": "First Building",
+  "address": "10th Main Street",
+  "price": 250000,
+  "code_internal": {
+    "$numberLong": "1"
+  },
+  "year": 2015,
+  "id_owner": "68a9b65ba05529911ec3685e"
+},
+{
+  "_id": {
+    "$oid": "68ad587b891e8b45f65b2f14"
+  },
+  "name": "Second Building",
+  "address": "9th Common Avenue",
+  "price": 450000,
+  "code_internal": {
+    "$numberLong": "2"
+  },
+  "year": 2020,
+  "id_owner": "68a9b65ba05529911ec3685e"
+},
+{
+  "_id": {
+    "$oid": "68ad5c5b730f0c8cc6919aa3"
+  },
+  "name": "Third Building",
+  "address": "12th Xtreme Avenue",
+  "price": 800000,
+  "code_internal": {
+    "$numberLong": "3"
+  },
+  "year": 2025,
+  "id_owner": "68a9b65ba05529911ec3685e"
+},
+{
+  "_id": {
+    "$oid": "68b522e2d51822c7efc016a1"
+  },
+  "name": "Add Property place",
+  "address": "11th Avenue Stree",
+  "price": 350000,
+  "code_internal": {
+    "$numberLong": "4"
+  },
+  "year": 2000,
+  "id_owner": "68ad6404c07de2f8b99b78f5"
+},
+{
+  "_id": {
+    "$oid": "68b52331d51822c7efc016a2"
+  },
+  "name": "Property place second",
+  "address": "1th street main Avenue",
+  "price": 600000,
+  "code_internal": {
+    "$numberLong": "5"
+  },
+  "year": 2010,
+  "id_owner": "68ad6404c07de2f8b99b78f5"
+},
+{
+  "_id": {
+    "$oid": "68b52364d51822c7efc016a3"
+  },
+  "name": "Property place third",
+  "address": "90th Main Street Place Avenue",
+  "price": 700000,
+  "code_internal": {
+    "$numberLong": "6"
+  },
+  "year": 2022,
+  "id_owner": "68ad6404c07de2f8b99b78f5"
+}]
